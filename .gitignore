@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Library data (you said you don't want to commit this)
+library.json
+
+# IDE settings (optional)
+.vscode/
+.idea/
