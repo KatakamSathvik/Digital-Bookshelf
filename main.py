@@ -1,6 +1,6 @@
 DATA_FILE = "library.json"
 
-from library_oop import Library
+from library import Library
 from book import Book
 
 library = Library()
